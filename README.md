@@ -1,3 +1,5 @@
+Moved to https://github.com/gtm-nayan/quillpapers/tree/main/pdf_processing_py
+
 Basic rule based python scripts used to separate out the questions from CAIE MCQ papers.
 
 TODO:
